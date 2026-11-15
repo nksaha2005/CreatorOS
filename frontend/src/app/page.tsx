@@ -20,11 +20,11 @@ const STATS = [
     color: 'cyan',
   },
   {
-    label: 'Ideas Saved',
-    value: '12',
-    change: '3 new today',
+    label: 'Viral Hooks Crafted',
+    value: '48',
+    change: '12 new today',
     positive: true,
-    icon: Archive,
+    icon: Sparkles,
     color: 'violet',
   },
   {
@@ -40,7 +40,7 @@ const STATS = [
 const ACTIVITY = [
   { icon: Sparkles, text: 'Generated "Morning Motivation" script', time: '2 hours ago', color: 'violet' },
   { icon: Video, text: 'Remixed viral iPhone 16 reel', time: '5 hours ago', color: 'cyan' },
-  { icon: FileText, text: 'Saved "Street Food Tour" to Idea Vault', time: 'Yesterday, 8PM', color: 'violet' },
+  { icon: FileText, text: 'Optimized captions & SEO for "Street Food Tour"', time: 'Yesterday, 8PM', color: 'violet' },
   { icon: BarChart2, text: 'Created SEO package for 3 reels', time: 'Yesterday, 3PM', color: 'cyan' },
   { icon: Sparkles, text: 'Generated storyboard for "90s Nostalgia"', time: '2 days ago', color: 'violet' },
 ];
