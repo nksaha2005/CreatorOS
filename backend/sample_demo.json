@@ -1,0 +1,214 @@
+{
+  "idea_demo": {
+    "script": [
+      {
+        "scene_number": 1,
+        "title": "The Hook",
+        "description": "Open on a vintage CRT television glowing in a dark room, static hiss, then a cartoon appears.",
+        "dialogue": "What if I told you that 6am on a Saturday used to feel like Christmas morning?",
+        "camera_angle": "POV looking at old TV",
+        "duration_seconds": 10
+      },
+      {
+        "scene_number": 2,
+        "title": "The Setup",
+        "description": "Warm living room with cereal bowl, pajamas, early morning light streaming through curtains.",
+        "dialogue": "Before smartphones, before streaming, there was something magical about Saturday morning cartoons...",
+        "camera_angle": "Medium shot, warm light",
+        "duration_seconds": 20
+      },
+      {
+        "scene_number": 3,
+        "title": "Deep Dive",
+        "description": "Quick-cut montage of classic cartoon imagery overlaid with creator reactions.",
+        "dialogue": "Tom and Jerry, Pokemon, SpongeBob - these weren't just shows, they were our entire childhood identity",
+        "camera_angle": "Nostalgic montage cuts",
+        "duration_seconds": 30
+      },
+      {
+        "scene_number": 4,
+        "title": "Modern Comparison",
+        "description": "Split screen showing a child in 90s watching TV versus a child today scrolling through streaming services.",
+        "dialogue": "Now kids have Netflix, YouTube, everything on demand. But do they have that ANTICIPATION? That waiting all week just to catch your favorite episode?",
+        "camera_angle": "Split screen",
+        "duration_seconds": 25
+      },
+      {
+        "scene_number": 5,
+        "title": "Call to Action",
+        "description": "Creator looks directly into camera with a warm smile, inviting connection.",
+        "dialogue": "Drop your favorite Saturday morning cartoon in the comments. Let's bring the nostalgia back together.",
+        "camera_angle": "Direct camera address, close up",
+        "duration_seconds": 15
+      }
+    ],
+    "storyboard": [
+      {
+        "scene_number": 1,
+        "visual_description": "Dark room, CRT TV glowing with warm static light. Dust particles visible in the TV glow. Extreme close-up on screen.",
+        "pose_description": "Creator sits cross-legged, arms open wide, eyes wide with childlike wonder",
+        "color_palette": ["#FF6B35", "#FFE66D", "#2C3E50"],
+        "mood": "Mysterious & Nostalgic"
+      },
+      {
+        "scene_number": 2,
+        "visual_description": "Cozy living room bathed in golden morning light. Cereal bowl in foreground, soft focus on the TV.",
+        "pose_description": "Creator sits cross-legged, arms open wide, cradling an imaginary bowl of cereal",
+        "color_palette": ["#FFE66D", "#FF6B35", "#F7DC6F"],
+        "mood": "Warm & Comforting"
+      },
+      {
+        "scene_number": 3,
+        "visual_description": "Rapid montage cuts with VHS grain overlay. Saturated colors, retro font overlays. Energy is high.",
+        "pose_description": "Creator sits cross-legged, arms open wide, animated expressions matching each cartoon reference",
+        "color_palette": ["#4ECDC4", "#FF6B35", "#FF4757"],
+        "mood": "High Energy & Joyful"
+      },
+      {
+        "scene_number": 4,
+        "visual_description": "Clean split-screen. Left side warm sepia tones, right side cold blue modern tones. Stark contrast.",
+        "pose_description": "Creator sits cross-legged, arms open wide, gesturing between both sides of screen",
+        "color_palette": ["#F39C12", "#2980B9", "#ECF0F1"],
+        "mood": "Reflective & Thought-Provoking"
+      },
+      {
+        "scene_number": 5,
+        "visual_description": "Tight close-up on creator's face. Warm backlight. Direct eye contact. Genuine smile.",
+        "pose_description": "Creator sits cross-legged, arms open wide, leaning slightly toward camera",
+        "color_palette": ["#FF6B35", "#FFE66D", "#4ECDC4"],
+        "mood": "Inviting & Community-Driven"
+      }
+    ],
+    "seo": {
+      "title": "Every 90s Kid NEEDS To Watch This (Childhood Just Hit Different)",
+      "description": "Remember when Saturday morning actually meant something? Before algorithm-curated feeds and on-demand streaming, there was a sacred ritual: waking up at dawn, pouring a bowl of cereal, and planting yourself in front of the TV for cartoons. Tom & Jerry, Pokemon, SpongeBob - these weren't just shows. They were the shared language of an entire generation. This video explores why that anticipation, that weekly countdown, created memories that streaming can never replicate. Comment your favorite below.",
+      "hashtags": [
+        "#NostalgiaContent",
+        "#90sKid",
+        "#SaturdayMorningCartoons",
+        "#ChildhoodMemories",
+        "#ContentCreator",
+        "#YouTubeCreators",
+        "#Throwback",
+        "#Nostalgia90s",
+        "#CartoonNetwork",
+        "#VibrantContent"
+      ],
+      "keywords": [
+        "90s nostalgia",
+        "Saturday morning cartoons",
+        "childhood memories",
+        "retro television",
+        "millennial nostalgia"
+      ],
+      "best_posting_times": [
+        "Saturday 8:00 AM EST",
+        "Friday 7:00 PM EST",
+        "Sunday 10:00 AM EST"
+      ]
+    },
+    "creative_direction": "Warm, vintage aesthetic with VHS grain overlay and saturated color grading. Use split-diopter shots to contrast past vs present, with Lo-fi beats as background ambiance.",
+    "posting_schedule": [
+      "Day 1: Publish main video at 8AM Saturday for peak nostalgia audience",
+      "Day 2: Behind-the-scenes reel on Instagram Stories showing filming setup",
+      "Day 3: Post a poll on Instagram: 'What was YOUR Saturday morning cartoon?' ",
+      "Day 4: Share a 15-second TikTok teaser with the hook line only",
+      "Day 5: Engage with every comment, pin the most nostalgic ones",
+      "Day 6: Cross-post to Facebook Groups dedicated to 90s nostalgia",
+      "Day 7: Compile top comments into a follow-up 'You guys responded!' community post"
+    ]
+  },
+  "remix_demo": {
+    "viral_analysis": "This iPhone 16 camera reel exploded because it nailed the first 2-second hook with an impossibly sharp macro shot that stopped the scroll dead. The demonstration value was immediately obvious - viewers could see the camera quality without being told about it, triggering an instant 'I need to try this' response. The relatable moment of capturing everyday objects in cinematic quality made viewers feel the upgrade was achievable for them personally, not just for professional filmmakers.",
+    "creative_twists": [
+      {
+        "title": "The POV Challenge",
+        "description": "Recreate the exact same shots from the original video but filmed entirely from the viewer's first-person perspective, making the audience feel like they are the ones discovering these camera capabilities.",
+        "hook": "What if YOU were the one filming this viral reel? Here's exactly how to replicate it.",
+        "execution_steps": [
+          "Mount phone at chest level using a gimbal for the same walking shots",
+          "Identify the 3 hero shots from the original and scout identical locations",
+          "Film yourself filming - meta POV that shows the behind-the-scenes process",
+          "Edit side-by-side comparison with original to show your recreation accuracy"
+        ],
+        "estimated_viral_score": 92
+      },
+      {
+        "title": "Before/After Blindfold Test",
+        "description": "Show the same 10 shots filmed on 5 different phones including iPhone 16, hide the brand names, and let real people on the street guess which is which. Reveal at the end.",
+        "hook": "Can people ACTUALLY tell the difference between a $400 and $1200 phone camera? We tested it.",
+        "execution_steps": [
+          "Film identical shots on 5 different phones at the same location and time",
+          "Remove all brand watermarks and present clips anonymously labeled A through E",
+          "Film genuine reactions of 10 strangers ranking the footage quality",
+          "Dramatic reveal of which phone was which with reaction compilation"
+        ],
+        "estimated_viral_score": 88
+      },
+      {
+        "title": "Golden Hour Sprint",
+        "description": "Issue a 60-second real-time timelapse challenge where you capture the entire golden hour window in one continuous sprint across a city rooftop using only iPhone 16.",
+        "hook": "You have exactly 60 seconds of golden hour left. GO.",
+        "execution_steps": [
+          "Scout rooftop or elevated location with 180-degree city view beforehand",
+          "Set up 4 pre-planned composition spots to sprint between",
+          "Film the actual sprint in real-time with a wearable camera showing your movement",
+          "Edit the final golden hour shots together with the sprint footage split-screen"
+        ],
+        "estimated_viral_score": 95
+      }
+    ],
+    "pose_guide": [
+      {
+        "scene_number": 1,
+        "visual_description": "45-degree overhead bird's eye shot of phone held over textured surface. Camera visible in frame showing what it's capturing. Clean negative space around subject.",
+        "pose_description": "Stand directly above subject, arm fully extended overhead, phone parallel to ground. Body completely still, weight centered.",
+        "color_palette": ["#F5E6D3", "#2C2C2C"],
+        "mood": "Crisp & Technical"
+      },
+      {
+        "scene_number": 2,
+        "visual_description": "POV first-person shot looking through the phone screen in real-time. Viewer sees the composition being framed live. Natural handheld movement adds authenticity.",
+        "pose_description": "Hold phone at eye level, slight forward lean, elbows tucked for stability. Walk naturally toward subject.",
+        "color_palette": ["#FFD700", "#FF6B35"],
+        "mood": "Dynamic & Immersive"
+      },
+      {
+        "scene_number": 3,
+        "visual_description": "Eye-level static macro shot with subject filling 70% of frame. Extreme shallow depth of field. Background bokeh creates dreamy separation.",
+        "pose_description": "Crouch or kneel to subject height, brace phone against stable surface or use tripod. Hold breath during capture.",
+        "color_palette": ["#4ECDC4", "#45B7D1"],
+        "mood": "Intimate & Artistic"
+      }
+    ],
+    "seo_package": {
+      "title": "I Recreated The Viral iPhone 16 Reel (Here's What Nobody Tells You)",
+      "description": "Everyone saw that viral iPhone 16 camera reel. But what does it actually take to recreate those shots? I broke down every angle, every setting, and every technique used in the original video and rebuilt it from scratch. Here's my honest assessment of what the iPhone 16 camera can actually do for content creators - no sponsored filters, no PR talking points. Just real results from a creator who shoots daily.",
+      "hashtags": [
+        "#iPhoneCamera",
+        "#TechReels",
+        "#CameraTest",
+        "#iPhone16",
+        "#ContentCreatorTips",
+        "#CameraGear",
+        "#ReelsTips",
+        "#TechContent",
+        "#SmartphonePhotography",
+        "#ViralReel"
+      ],
+      "keywords": [
+        "iPhone 16 camera test",
+        "viral reel recreation",
+        "smartphone cinematography",
+        "content creator gear",
+        "mobile filmmaking"
+      ],
+      "best_posting_times": [
+        "Tuesday 7:00 PM EST",
+        "Thursday 12:00 PM EST",
+        "Saturday 10:00 AM EST"
+      ]
+    },
+    "platform_strategy": "On Instagram Reels, lead with the most jaw-dropping visual comparison in the first frame and keep it under 30 seconds for algorithmic boost. For YouTube Shorts, you have room for a 10-second setup that explains the premise before the reveal, which drives higher completion rates. On TikTok, lean into the challenge angle - post a duet-ready version and explicitly invite creators to film their own version, which can multiply your reach 5-10x through the creator network effect."
+  }
+}
